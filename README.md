@@ -1,1 +1,1 @@
-# ASG1
+# Weekly Blog
